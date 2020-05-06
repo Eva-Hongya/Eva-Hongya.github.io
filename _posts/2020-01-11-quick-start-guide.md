@@ -1,27 +1,22 @@
 ---
 layout: post
-title:  "Radio Log"
+title:  "How We Can Make Toronto Streets Safer"
 author: Eva
-categories: [ Python ]
+categories: [ Tableau , Data Visualization ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
+# How We Can Make Toronto Streets Safer
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+This project explores the Killed and Seriously Injured (KSI) dataset from City of Toronto, finds patterns of traffic collisions, and draw insightful recommendations for the city to make its streets safer in the future.
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+The visualization is done with Tableau. To see the full project with interactive feature, please click [Taleau Story: How We Can Make Toronto Steerts Safer](https://public.tableau.com/views/Toronto_15652984395730/HowWeCanMakeTorontoStreetsSafer?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link).
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+![KSI Map](https://user-images.githubusercontent.com/46429585/63954222-56765e00-cab5-11e9-8a05-8b786e60a1f5.JPG)
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+This visualization talks about traffic collisions from several perspectives:
+* Hour of the day
+* Enviroment
+* Driver
+* Others
