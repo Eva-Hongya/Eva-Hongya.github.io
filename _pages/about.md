@@ -1,34 +1,34 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Hi, welcome to my wesite.
 permalink: /about
-comments: true
+comments: false
 ---
-
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
+<p>Three things I can do for your research team: I research the heck out the business problem, I analyze the data, and I provide anctionable insights with killer stories. Take a look at my resume.  </p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="Eva Hongya He's resume, contact hongya.eva.he@gmail.com it not showing properly." /></p>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<h5>Here is what my professor says about me..</h5>
+<p> <a target="_blank"  href="https://www.linkedin.com/in/nancy-j-spotton">Nancy Spotton</a>, Professor at George Brown College </p>
 
-<h4>Questions or bug reports?</h4>
+<blockquote>
+<p> Eva, you exhibit confidence, intelligence, warmth and curiousity when you interac with anyone. Whether it is someone in your cohort that is struggling to connect, to a project or to others, YOU are the person that leans in to help.</p></blockquote>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<h5>What else?</h5>
+
+<p>I built this website myself using this <a target="_blank"  href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Jekyll template from Github</a>! Let me know what you think about it.</p>
 
 </div>
 
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Let's connect!</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<p>Find me on <a target="_blank" href="https://www.linkedin.com/in/evahongya">Linkedin</a> or email me at <a href="mailto:hongya.eva.he@gmail.com">hongya.eva.he@gmail.com</a>, we will have a great conversation <i class="far fa-smile-beam"></i>.</p>
 
 </div>
 </div>

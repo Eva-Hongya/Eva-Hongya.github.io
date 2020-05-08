@@ -1,22 +1,21 @@
 # Site
 name: "Eva Hongya He"
 title: "Eva Hongya He"
-description: "A collection of Eva's personal projects."
+description: "A story wizard, a researcher, an analyst."
 logo: 'assets/images/logo.PNG'
 favicon: 'assets/images/logo.PNG'
 baseurl: ''
 google_analytics: ''
-disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+  Eva:
+    name: Eva
+    display_name: Eva
+    avatar: 'assets/images/eva2.jpg'
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
