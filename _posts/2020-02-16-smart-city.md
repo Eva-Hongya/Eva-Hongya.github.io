@@ -2,7 +2,7 @@
 layout: post
 title:  "Sidewalk Labs is Far from Ready to Take Off"
 author: Eva
-categories: [ Opinion, Privacy ]
+categories: [ Opinion, Toronto ]
 image: assets/images/privacy.jpg
 comments: false
 ---

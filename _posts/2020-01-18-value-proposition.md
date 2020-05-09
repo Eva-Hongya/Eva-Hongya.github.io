@@ -6,7 +6,6 @@ categories: [ Value Proposition, Visual ]
 image: assets/images/gbcflyer.png
 comments: false
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll... originated with us”. 
+A value proposition visual I created for <a target="_blank" href="https://www.georgebrown.ca/programs/strategic-relationship-marketing-program-postgraduate-b409">Strategic Relationship Marketing program at George Brown College</a>.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further l
+This was a pair project I had with <a target="_blank" href="https://www.linkedin.com/in/afregatillo/">Ana Francesca Regatillo</a>.
