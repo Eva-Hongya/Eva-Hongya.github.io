@@ -1,4 +1,4 @@
----
+--- 
 layout: post
 title:  "How We Can Make Toronto Streets Safer"
 author: Eva
@@ -22,12 +22,12 @@ Another important factor is the hour of the day. Most accidents happen in the af
 ![walking]({{site.baseurl}}/assets/images/hour.png)
 
 Other perspectives included in this project:
-* Enviroment
+* Environment
 * Driver
 * Others
 
 
-The visualization is done with Tableau. To see the full project with interactive features, please visit <a target="_blank" href="https://public.tableau.com/views/Toronto_15652984395730/HowWeCanMakeTorontoStreetsSafer?:display_count=y&:origin=viz_share_link">Taleau Story: How We Can Make Toronto Steerts Safer</a>.
+The visualization is done with Tableau. To see the full project with interactive features, please visit <a target="_blank" href="https://public.tableau.com/views/Toronto_15652984395730/HowWeCanMakeTorontoStreetsSafer?:display_count=y&:origin=viz_share_link">Tableau Story: How We Can Make Toronto Streets Safer</a>.
 
 
 This project is based on the Killed and Seriously Injured (KSI) dataset from City of Toronto.

@@ -20,7 +20,7 @@ Check out more stories I wrote in <a target="_blank" href="https://www.linkedin.
 <p> <a target="_blank"  href="https://www.linkedin.com/in/nancy-j-spotton">Nancy Spotton</a>, George Brown College, Professor </p>
 
 <blockquote>
-<p> Eva, you exhibit confidence, intelligence, warmth and curiousity when you interact with anyone. Whether it is someone in your cohort that is struggling to connect, to a project or to others, YOU are the person that leans in to help.</p></blockquote>
+<p> Eva, you exhibit confidence, intelligence, warmth and curiosity when you interact with anyone. Whether it is someone in your cohort that is struggling to connect, to a project or to others, YOU are the person that leans in to help.</p></blockquote>
 
 Tan Yingzi, <a target="_blank" href="http://global.chinadaily.com.cn/">China Daily</a> Chongqing, Bureau Chief
 
