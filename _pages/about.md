@@ -17,10 +17,13 @@ Check out more stories I wrote in <a target="_blank" href="https://www.linkedin.
 <p></p>
 
 <h5>Here is what people say about me..</h5>
-<p> <a target="_blank"  href="https://www.linkedin.com/in/nancy-j-spotton">Nancy Spotton</a>, George Brown College, Professor </p>
+<p> <a target="_blank"  href="https://www.linkedin.com/in/nancy-j-spotton">Nancy Spotton</a>, George Brown College, Professor</p>
+<p>In her article <a target="_blank" href="https://www.linkedin.com/pulse/what-does-our-future-leader-look-like-sound-nancy-j-spotton/?trackingId=DuzBIUaLe%2BjgB0GTSsg7bw%3D%3D"><i>What Does Our Future Leader Look Like and Sound Like?</i></a> :</p>
 
 <blockquote>
-<p> Eva, you exhibit confidence, intelligence, warmth and curiosity when you interact with anyone. Whether it is someone in your cohort that is struggling to connect, to a project or to others, YOU are the person that leans in to help.</p></blockquote>
+<p>Eva has this TREMENDOUS profile... Happy. Kind. INTELLIGENT. Hard Working. Bilingual & 9% physically competitive. She does not compete. She collaborates. She inspires success, together. </p>
+<p>In our distracted world, Eva brings focus. In a world where we are very busy, but do not really go anywhere, Eva brings productivity and innovation. </p>
+<p>Eva is this values-centered, kind, curious, intelligent soul. Her open mindset - her UNDERDOG mindset sets her apart.</p></blockquote>
 
 Tan Yingzi, <a target="_blank" href="http://global.chinadaily.com.cn/">China Daily</a> Chongqing, Bureau Chief
 
