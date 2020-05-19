@@ -7,7 +7,9 @@ comments: false
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Three things I can do for your research team: I research the heck out the business problem, I analyze the data, and I provide actionable insights with killer stories. Take a look at my resume.  </p>
+<p>I am a market research enthusiast. Eternally curious about how people think and make decisions, I am always excited to learn from  them.</p>
+
+<p>Three things I can do for your research team: I research the heck out your business problem, and analyze the data with a marketing lens, then I provide actionable insights with killer stories. Take a look at my resume.  </p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/resume.jpg" alt="Eva Hongya He's resume, contact hongya.eva.he@gmail.com it not showing properly." /></p>
 
